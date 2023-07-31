@@ -12,6 +12,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=EveSunMaple&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=vue)
+![EveSunMaple's github stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=vue)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EveSunMaple&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EveSunMaple&layout=compact&langs_count=6)
