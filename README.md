@@ -13,3 +13,8 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=EveSunMaple&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![EveSunMaple's github stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=vue)
+
+<div align="center">
+  <img src="https://github.com/EveSunMaple/EveSunMaple/images/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Stats Overview"/>
+   <img src="https://github.com/EveSunMaple/EveSunMaple/images/github-snake.svg#gh-light-mode-only" alt="GitHub Stats Overview"/>
+</div>
