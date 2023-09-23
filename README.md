@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:EveSunMaple?theme=rule34">
 
-## 准高一学生&OIer
+## 高一学生&OIer
 
 喜欢编程，初中整图形库与Unity，但可怜的OI之路却一眼就望到了头
 
