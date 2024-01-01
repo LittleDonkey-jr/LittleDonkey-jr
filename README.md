@@ -8,7 +8,7 @@
 
 ### 个人博客
 
-[![Vivia](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Vivia-Web)](https://github.com/EveSunMaple/Vivia-Web)
+[![Vivia](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web)](https://github.com/EveSunMaple/Astro-Web)
 <br>
 
 ### Github 活跃度
