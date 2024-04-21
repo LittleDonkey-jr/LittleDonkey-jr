@@ -14,3 +14,9 @@
 ### Github 活跃度
 
 ![EveSunMaple's github stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=vue)
+
+### NEW PROJECT
+
+喜讯，Frosti的第一个正式版本算是发布了（？
+
+![view](https://github.com/EveSunMaple/Frosti/blob/main/view.png)
