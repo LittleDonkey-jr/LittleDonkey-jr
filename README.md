@@ -8,12 +8,13 @@
 
 ### 个人博客
 
-[![Vivia](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web)](https://github.com/EveSunMaple/Astro-Web)
+[![Vivia](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web)
 <br>
 
 ### Github 活跃度
 
-![EveSunMaple's github stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=vue)
+| ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
+| --- | --- |
 
 ### NEW PROJECT
 
