@@ -6,10 +6,10 @@
 
 2023/11/19更新：NOIP考完了，CSP-S水了个一等奖，结束啦！
 
-### 个人博客
+### 个人博客项目
 
-[![Vivia](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web)
-<br>
+| ![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Frosti&theme=material-palenight) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
+| --- | --- |
 
 ### Github 活跃度
 
