@@ -20,4 +20,4 @@
 
 喜讯，Frosti 在 `pagespeed.web` 获得 400 分，望周知
 
-![view](https://github.com/EveSunMaple/Frosti/blob/main/view.png)]
+![https://github.com/EveSunMaple/Frosti/blob/main/view.png](https://raw.githubusercontent.com/EveSunMaple/Frosti/main/400.png)
