@@ -8,7 +8,7 @@
 
 ### 个人博客项目
 
-| ![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Frosti&theme=material-palenight) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
+| [![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Frosti&theme=material-palenight)](https://github.com/EveSunMaple/Frosti) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
 | --- | --- |
 
 ### Github 活跃度
@@ -18,6 +18,6 @@
 
 ### NEW PROJECT
 
-喜讯，Frosti的第一个正式版本算是发布了（？
+喜讯，Frosti 在 `pagespeed.web` 获得 400 分，望周知
 
-![view](https://github.com/EveSunMaple/Frosti/blob/main/view.png)
+[![view](https://github.com/EveSunMaple/Frosti/blob/main/view.png)](https://github.com/EveSunMaple/Frosti/blob/main/400.png)
