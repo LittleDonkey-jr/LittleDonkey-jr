@@ -15,9 +15,3 @@
 
 | ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
 | --- | --- |
-
-### NEW PROJECT
-
-喜讯，Frosti 在 `pagespeed.web` 获得 400 分，望周知
-
-![https://github.com/EveSunMaple/Frosti/blob/main/view.png](https://raw.githubusercontent.com/EveSunMaple/Frosti/main/400.png)
