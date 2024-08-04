@@ -15,3 +15,7 @@
 
 | ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
 | --- | --- |
+
+## 计划
+
+1. 制作一个程序来帮助 Astro 主题的更新
