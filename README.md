@@ -8,7 +8,7 @@
 
 ### 个人博客项目
 
-| [![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Frosti&theme=material-palenight)](https://github.com/EveSunMaple/Frosti) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=EveSunMaple&repo=Astro-Web&theme=material-palenight)](https://github.com/EveSunMaple/Astro-Web) |
+| [![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=LittleDonkey-jr&repo=Frosti&theme=material-palenight)](https://github.com/LittleDonkey-jr/OrangePiZero2-LCD) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=LittleDonkey-jr&repo=Astro-Web&theme=material-palenight)](https://github.com/LittleDonkey-jr/OrangePiZero2-LCD) |
 | --- | --- |
 
 ### Github 活跃度
