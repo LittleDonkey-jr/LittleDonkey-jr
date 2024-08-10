@@ -13,7 +13,7 @@
 
 ### Github 活跃度
 
-| ![LittleDonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
+| ![LittleDonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleDonkey-jr&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=LittleDonkey-jr&theme=material-palenight)](https://git.io/streak-stats) |
 | --- | --- |
 
 ## 计划
