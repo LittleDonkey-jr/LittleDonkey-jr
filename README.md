@@ -8,7 +8,7 @@
 
 ### 个人博客项目
 
-| [![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=LittleDonkey-jr&repo=Frosti&theme=material-palenight)](https://github.com/LittleDonkey-jr/OrangePiZero2-LCD) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=LittleDonkey-jr&repo=Astro-Web&theme=material-palenight)](https://github.com/LittleDonkey-jr/OrangePiZero2-LCD) |
+| [![Frosti](https://github-readme-stats.vercel.app/api/pin/?username=LittleDonkey-jr&repo=OrangePiZero2-LCD&theme=material-palenight)](https://github.com/LittleDonkey-jr/OrangePiZero2-LCD) | [![SaroProck](https://github-readme-stats.vercel.app/api/pin/?username=LittleDonkey-jr&repo=OrangePiZero2-LCD&theme=material-palenight)](https://github.com/LittleDonkey-jr/OrangePiZero2-LCD) |
 | --- | --- |
 
 ### Github 活跃度
